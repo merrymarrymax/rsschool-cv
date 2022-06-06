@@ -1,2 +1,3 @@
 # rsschool-cv
-https://merrymarrymax.github.io/rsschool-cv/cv
+
+https://merrymarrymaxx.github.io/rsschool-cv/cv
