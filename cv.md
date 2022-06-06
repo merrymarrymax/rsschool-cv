@@ -28,7 +28,7 @@ __Additional Education__
 
 2020–2021 – Chinese language course (HSK1)
 
-2020 – Drive license course (category B)
+2020 – Drive license course (Category B)
 
 2022 – Software testing introduction course by EPAM Inc.
 
