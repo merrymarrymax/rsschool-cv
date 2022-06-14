@@ -1,9 +1,196 @@
 <!DOCTYPE html>
 <html>
-
-  <head>
+  <head lang="English">
     <title>CV Maryia Lachkouskaya</title>
-    <link rel="stylesheet" type="text/css" href="C:\Users\user\OneDrive\Рабочий стол\testing\RS_School\rsschool-cv\styles.css">
+    <style rel="stylesheet" type="text/css">
+      a{
+	text-decoration: none;
+	text-transform: none;
+	color: #4A90E2;
+}
+
+body {
+	line-height: 1;
+	font-size: 19px;
+	background-color: #fefefea9;
+	color: #04143A;
+}
+
+p {
+	color: #15171a;
+	font-size: 17;
+	line-height: 31px;
+}
+
+strong {
+	font-weight: 600;
+}
+
+div , footer {
+	box-sizing: border-box;
+}
+
+.container {
+	margin: 60px auto;
+}
+
+.hero {
+	margin: 50px auto; 
+	position: relative;
+}
+
+h1.name {
+	font-size: 70px;
+	font-weight: 300;
+	display: inline-block;
+}
+
+.job-title {
+	vertical-align: top;
+	background-color: #D9E7F8;
+	color: #4A90E2;
+	font-weight: 600;
+	margin-top: 5px;
+	margin-left: 20px;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 15px 25px;
+}
+
+.email, .linkedin, .github {
+	display: block;
+	font-size: 24px;
+	font-weight: 300;
+	color: #81899C;
+	margin-top: 10px;
+}
+
+.lead {
+	font-size: 44px;
+	font-weight: 300;
+	margin-top: 60px;
+	line-height: 55px;
+}
+
+.sections {
+	vertical-align: top;
+	width: 49.7%;
+	height: 50px;
+}
+
+.section-title {
+	font-size: 20px;
+	font-weight: 600;
+	margin-bottom: 15px;
+}
+
+.list-card {
+	margin: 30px 0;
+}
+
+.list-card .exp , .list-card div{
+	vertical-align: top;
+}
+
+.list-card .exp {
+	margin-right: 15px;
+	color: #87CEEB;
+	font-weight: 600;
+	width: 100px;
+}
+
+.list-card div {
+	width: 70%;
+}
+
+.list-card h3 {
+	font-size: 18px;
+	font-weight: 600;
+	color: #191970;
+	line-height: 26px;
+	margin-bottom: 8px;
+}
+
+.list-card div span {
+	font-size: 16px;
+	color: #00008B;
+	line-height: 22px;
+}
+
+@media(max-width: 1024px){
+	.container {
+		padding: 15px;
+		margin: 0px auto;
+	}
+	.cards {
+		margin-top: 250px;
+	}
+}
+
+@media(max-width: 768px){
+	.container {
+		padding: 15px;
+		margin: 0px auto;
+	}
+	.cards {
+		margin-top: 320px;
+	}
+
+	.card {
+		padding: 15px;
+		text-align: left;
+	}
+	.card h2 {
+		font-size: 70px;
+	}
+		.card , .sections {
+		width: 100%;
+		height: auto;
+		margin: 10px 0;
+		float: left;
+        }
+}
+
+
+@media(max-width: 425px) {
+	h1.name {
+		font-size: 40px;
+	}
+
+	.card , .sections {
+		width: 100%;
+		height: auto;
+		margin: 10px 0;
+		float: left;
+	}
+
+	.timeline{
+		display: none;
+		}
+
+	.job-title {
+		font-size: 15px;
+		top: -40px;
+		right: 20px;
+		padding: 10px
+	}
+
+	.lead {
+		margin-top: 15px;
+		font-size: 20px;
+		line-height: 28px;
+	}
+	.container {
+		margin: 0px;
+		padding: 0 15px;
+	}
+	
+}
+.footer {
+    position: fixed;
+    bottom: 10px;
+}
+      </style>
   </head>
 
   <body>
@@ -19,7 +206,6 @@
       </div>
     </div>
 
-    <!-- Skills and intrest section -->
     <div class="container">
 
       <div class="sections">
