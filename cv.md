@@ -3,7 +3,7 @@
 
   <head>
     <title>CV Maryia Lachkouskaya</title>
-    <link rel="stylesheet" type="text/css" href="C:\Users\user\OneDrive\Рабочий стол\testing\RS_School\rsschool-cv\styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
 
   <body>
