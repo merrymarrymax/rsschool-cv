@@ -1,75 +1,121 @@
- Maryia Lachkouskaya
- 
- 
-**********
-
-
-__Contacts:__
-
-1. +375293505086
-
-2. maria.lachkovskaya@gmail.com
-
-3. https://www.linkedin.com/in/maryialachkouskaya/
-
-4. https://github.com/merrymarrymax
-
-__Education__
-
-2013–2015 – BSU Lyceum (High School Diploma, Linguistics)
-
-2015–2019 – BSU (Bachelor of Geoecology)
-
-__Additional Education__
-
-2017–2018 – English language course (B2)
-
-2018–2020 – Polish language course (B1)
-
-2020–2021 – Chinese language course (HSK1)
-
-2020 – Drive license course (category B)
-
-2022 – Software testing introduction course by EPAM Inc.
-
-__Work Experience__
-
-2019–2021 – Project Engineer (Unitary Enterprise "BELNIIPGRADOSTROITELSTVA")
-
-2020–2022 – Supplementary Education Teacher (BSU Lyceum)
-
-_Soft Skills_
-
-* Communication
-
-* Critical thinking
-
-* Teamwork
-
-* Result driven
-
-* Quick to learn
-
-* Organized
-
-* Stress resistance
-
-__Code sample__
-
-```
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
- <head>
-  <meta charset="utf-8">
-  <title>Borderlands 3</title>
- </head>
- <body>
-  <h1>WELCOME TO BORDERLANDS 3</h1>
-   <p>At the hard edge of the galaxy lies a group of planets ruthlessly exploited by militarized 
-   corporations. Brimming with loot and violence, this is your home—the Borderlands. Now, a crazed 
-   cult known as The Children of the Vault has emerged and is spreading like an interstellar plague.
-   Play solo or co-op as one of four unique Vault Hunters, score loads of loot, and save the galaxy 
-   from this fanatical threat.</p>
- </body>
+
+  <head>
+    <title>CV Maryia Lachkouskaya</title>
+    <link rel="stylesheet" type="text/css" href="C:\Users\user\OneDrive\Рабочий стол\testing\RS_School\rsschool-cv\styles.css">
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="hero">
+        <h1 class="name"><strong>Maryia</strong> Lachkouskaya</h1>
+        <span class="job-title">QA engineer</span>
+        <span class="email">maria.lachkovskaya@gmail.com</span>
+        <span class="linkedin">https://www.linkedin.com/in/maryialachkouskaya/</span>
+        <span class="github">https://github.com/merrymarrymax</span>
+       
+      </div>
+    </div>
+
+    <!-- Skills and intrest section -->
+    <div class="container">
+
+      <div class="sections">
+        <h2 class="section-title">Education</h2>
+
+        <div class="list-card">
+          <span class="exp">BSU Lyceum</span>
+          <div>
+            <h3>Linguistic Department</h3>
+            <span>High School Diploma</span>
+          </div>
+        </div>
+
+        <div class="list-card">
+          <span class="exp">BSU</span>
+          <div>
+            <h3>Faculty of Geography and Geoinfomatics</h3>
+            <span>Bachelor of Geoecology</span>
+          </div>
+        </div>
+
+        <div class="container">
+
+      <div class="sections">
+        <h2 class="section-title">Additional Education</h2>
+
+        <div class="list-card">
+          <span class="exp">2017–2018</span>
+          <div>
+            <h3>English language course</h3>
+            <span>B2</span>
+          </div>
+        </div>
+
+        <div class="list-card">
+          <span class="exp">2018–2020</span>
+          <div>
+            <h3>Polish language course</h3>
+            <span>B1</span>
+          </div>
+        </div>
+
+  <div class="list-card">
+          <span class="exp">2020–2021</span>
+          <div>
+            <h3>Chinese language course</h3>
+            <span>HSK1</span>
+          </div>
+        </div>
+
+<div class="list-card">
+          <span class="exp">2020</span>
+          <div>
+            <h3>Drive license course</h3>
+            <span>category B</span>
+          </div>
+        </div>
+        
+        <div class="list-card">
+          <span class="exp">2022</span>
+          <div>
+            <h3>Software testing introduction course</h3>
+            <span>(by EPAM Inc.)</span>
+          </div>
+        </div>
+        
+       
+      </div>
+      <div class="sections">
+        <h2 class="section-title">Work experience</h2>
+
+        <div class="list-card">
+            <h3>Apr. 2019 - Dec. 2021 – Unitary Enterprise "BELNIIPGRADOSTROITELSTVA" (Engineer)</h3>
+        </div>
+        <div class="list-card">
+            <h3>Sep. 2020 – May 2022 - BSU Lyceum (Supplementary Teacher)</h3>
+        </div>
+      </div>
+    </div>
+
+
+    </div>
+
+
+    <br><br>
+
+
+    <footer class="container footer">
+      <span style="font-size: 16px; margin-top: "> 
+      <a href="https://github.com/merrymarrymax/">merrymarrymax </a> 
+      <a href="https://app.rs.school/">Rolling Scopes School</a>
+      <img src="https://rs.school/images/partners/logo-rs.svg" alt="Rolling Scopes School" width="50" height="50">
+      </span>
+    </footer>
+
+
+  </body>
+
 </html>
-```
